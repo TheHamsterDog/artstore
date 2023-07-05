@@ -9,6 +9,7 @@
   },
   "keywords": [],
   "author": "",
+  "type":"module",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^16.10.3",
